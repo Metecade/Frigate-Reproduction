@@ -1,0 +1,17 @@
+{   'adj_path': 'data/Harbin/adj_mx.pkl',
+    'dec_hidden_dim': 64,
+    'enc_hidden_dim': 64,
+    'enc_input_dim': 64,
+    'future': 12,
+    'gnn_hidden_dim': 64,
+    'gnn_input_dim': 18,
+    'keep_tod': True,
+    'lipschitz_path': 'data/Harbin/lipschitz.npz',
+    'nepochs': 50,
+    'nlayers': 10,
+    'output_dim': 1,
+    'past': 12,
+    'seen_path': 'data/Harbin/seen_30.npy',
+    'traffic_path': 'data/Harbin/traffic_df.pkl.gz'}
+
+epoch 1
